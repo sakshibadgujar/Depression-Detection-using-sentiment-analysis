@@ -116,7 +116,5 @@ This logbook details the weekwise progress of our final year B.Tech project titl
 
 
 
-
- --Finalize project report and print hard copies.
- --Prepare PowerPoint slides for viva and evaluation.
- --Deploy a basic web interface (optional enhancement).
+Week 12:27th May 2025
+ Finalize project report.
